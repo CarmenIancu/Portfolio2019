@@ -26,7 +26,7 @@ onClick=(event)=> {
 
       <div className="App" >
 
-{this.state.lightsOn ? 
+{!this.state.lightsOn ? 
   <Light onClick={this.onClick}/> :
    
 
