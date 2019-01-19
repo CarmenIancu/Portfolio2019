@@ -1,0 +1,14 @@
+.heart:before {
+  content: '\2665';
+  color: gray;
+  font-size:1.5em;
+}
+
+ul {
+  list-style:none;
+}
+
+li::before {content: "•"; color: #fdb803;
+  display: inline-block; width: 1em;
+  margin-left: -1em;
+font-size:200%;}
