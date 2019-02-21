@@ -7,8 +7,8 @@ import contributorsPortraits from '../images/contributorsPortraits.jpg';
 //import todo from '../../images/todo.jpg';
 //import metallicHearts from '../../images/metallicHearts.jpg';
 import lucas from '../images/lucas.jpg';
-//import swapi from '../../images/swapi.jpg';
-import smartbrain from '../images/smartbrain.jpg';
+import swapi from '../../images/swapi.jpg';
+//import smartbrain from '../images/smartbrain.jpg';
 
 const projects = [
  {
@@ -62,15 +62,17 @@ const projects = [
     repo: 'https://github.com/CarmenIancu/CarmenIancu.github.io',
     image: metallicHearts,
     skills: ['JS, ', 'three.js']
-  },
+  },*/
  {
     id: 7,
     title: 'SWAPI',
     content: 'React interface for searching through the SW planets. Uses SWAPI.',
+    page: 'https://swapi-1.herokuapp.com/',
     repo: 'https://github.com/CarmenIancu/swapi/',
     image: swapi,
     skills: ['React']
-  },
+  }
+ /*,
   {
     id: 8,
     title: 'Landing page',
@@ -94,7 +96,7 @@ const projects = [
     repo: 'https://github.com/CarmenIancu/image-gallery',
     image: imageGallery,
     skills: ['HTML, ','CSS'],
-  } */
+  }, 
 
    {
     id: 11,
@@ -105,6 +107,6 @@ const projects = [
     image: smartbrain,
     skills: ['React']
   },
-];
+];*/
 
 export default projects;
