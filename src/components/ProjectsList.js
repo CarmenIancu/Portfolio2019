@@ -7,7 +7,7 @@ import contributorsPortraits from '../images/contributorsPortraits.jpg';
 //import todo from '../../images/todo.jpg';
 //import metallicHearts from '../../images/metallicHearts.jpg';
 import lucas from '../images/lucas.jpg';
-import swapi from '../../images/swapi.jpg';
+import swapi from '../images/swapi.jpg';
 //import smartbrain from '../images/smartbrain.jpg';
 
 const projects = [
