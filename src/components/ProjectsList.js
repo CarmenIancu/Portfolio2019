@@ -106,7 +106,7 @@ const projects = [
     repo: 'https://github.com/CarmenIancu/facerecognitionbrain',
     image: smartbrain,
     skills: ['React']
-  },
-];*/
+  },*/
+];
 
 export default projects;
